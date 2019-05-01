@@ -13,7 +13,7 @@ public class AnimalsTester {
         System.out.println("breed: " + jackie.getBreed());
         jackie.speak();
         jackie.wagTail();
-
+ 
         System.out.println("-------------------------");
 
         Cat garfield = new Cat();
